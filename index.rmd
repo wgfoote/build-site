@@ -23,7 +23,7 @@ Column {data-width=350}
 ### **Contact**
 
 <h4>
-- **Phone:  917-767-7980** (voice and text)            
+- **Phone:  917-767-7980 *(voice and text)* **          
 - **Email:  wfoote01@manhattan.edu **
 - **Zoom: https://us02web.zoom.us/j/9177677980 **
 - **GitHub: https://github.com/wgfoote **
